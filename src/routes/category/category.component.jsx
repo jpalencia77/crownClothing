@@ -38,3 +38,5 @@ const Category = () => {
     </Fragment>
   );
 };
+
+export default Category;
