@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 
 import {
   selectCategoriesMap,
-  selectIsLoading,
+  selectIsLoading
 } from '../../store/categories/category.selector';
 
 import CategoryPreview from '../../components/category-preview/category-preview.component';
